@@ -1,8 +1,9 @@
 Lab Report 2
 
 Part 1. 
-Code for StringServer: ![Image](webserver.png).
-Add-messages Screenshot: ![Image](usingadd-messages.png). ![Image](add-messages#2.png).
+Code for StringServer: ![Image](webserver.png)
+Add-messages Screenshot:![Image](using add-messages.png)
+![Image](add-messages#2.png)
 
 1). Firstly, we would call the public static void main(String[] args) throws IOException method when we are activating the server. Then we call the method public String handleRequest(URI url) that takes in the url input and then proceeds to look for specific keywords such as "/", or "add" and then proceeds to change the output on the website.
 
