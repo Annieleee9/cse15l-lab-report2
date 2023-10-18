@@ -1,5 +1,7 @@
-lab report2
+Lab Report 2
+
 Part 1. 
+![Image](webserver.png).
 1). Firstly, we would call the public static void main(String[] args) throws IOException method when we are activating the server. Then we call the method public String handleRequest(URI url) that takes in the url input and then proceeds to look for specific keywords such as "/", or "add" and then proceeds to change the output on the website.
 
 2). In the first method, the method takes arguments of "String[]args"; which means an array of strings of Java string class, which means we can input several inputs because the array can store the inputs we put in the command line.
