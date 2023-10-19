@@ -1,5 +1,6 @@
 Lab Report 2
-
+Week 3: VSCode and Your Local Machine
+October,18,2023.
 Part 1. 
 Code for StringServer: ![Image](webserver.png)
 Add-messages Screenshot:
