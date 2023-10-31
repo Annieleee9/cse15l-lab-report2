@@ -20,7 +20,7 @@ Add-messages Screenshot:
  Part 2
  1. path to the private key : ![Image](private.png) , ![Image](Privatepath.png)
  2. path to the public key: ![Image](public.png), ![Image](Publicpath.png)
- 3. terminal interaction where I log into ieng6: ![Image](nopassword.png), 
+ 3. terminal interaction where I log into ieng6: ![Image](nopassword.png)
  
 
 Part 3. 
