@@ -17,9 +17,9 @@ Add-messages Screenshot:
 3.)Since we are adding onto the output every time a new input is added, instead of directly returning the input, we add an extra step where we store all the inputs as elements in a String ArrayList and we use += to " add new input TO the original" instead of replacing the previous inputs. In this case, I stored the index values in the ArrayList num, stored the index number in int index, and then finally put together the output in a String variable called ans. In the String variable ans, I combine the index number, the index-th element in the num ArrayList, and "\n| to start the next output on the next line. 
 
  Part 2
- 1. path to the private key : ![Image](private.png)
+ 1. path to the private key : ![Image](private.png) , ![Image](Privatepath.png)
  2. path to the public key: ![Image](public.png)
- 3. terminal interaction where I log into ieng6: ![Image](nopassword.png)
+ 3. terminal interaction where I log into ieng6: ![Image](nopassword.png), ![Image](Publicpath.png)
  
 
 Part 3. 
